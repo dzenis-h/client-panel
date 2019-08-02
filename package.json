@@ -3,6 +3,7 @@
   "version": "1.2.0",
   "author": "Dzenis-H",
   "private": true,
+  "description": "App that let's you add clients, check/ change their balances, edit/ delete them, allow/ disallow admin registration, etc ...",
   "dependencies": {
     "classnames": "^2.2.6",
     "firebase": "^5.2.0",
