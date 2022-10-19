@@ -3,3 +3,11 @@ build
 
 src\components\settings\config.js
 config.js
+
+# Firebase files
+.firebaserc
+firestore.indexes.json
+firestore.rules
+.firebase
+firebase/*
+firebase.json
