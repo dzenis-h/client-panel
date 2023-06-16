@@ -11,7 +11,7 @@
 ## Overview 👀
 Client Panel is an app that lets you add clients, check/ change their balances, edit/ delete them, allow/ disallow admin registration, etc. The app is built with React, Redux, JavaScript, Firebase, Bootstrap4 and other technologies.
 
-![Screenshot of the app](https://drive.google.com/file/d/1wKjuvOooqCRfho0KNfV_dIR9317YkH46/view?usp=sharing)
+![Screenshot of the app](https://drive.google.com/uc?export=view&id=1wKjuvOooqCRfho0KNfV_dIR9317YkH46)
 
 ## Tech Stack 🛠
 
