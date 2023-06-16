@@ -6,7 +6,7 @@
 [![LinkedIn Follow](https://img.shields.io/badge/-Follow-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/dzenis-h/)](https://www.linkedin.com/in/dzenis-h/)
 [![GitHub Follow](https://img.shields.io/badge/-Follow-black?style=social&logo=github&link=https://github.com/dzenis-h)](https://github.com/dzenis-h)
 ##
-# <span alt="favicon" width="32" height="32" style="padding: 5px; vertical-align: middle;">＄€</span> Client Panel
+# <span alt="favicon" width="32" height="32" style="padding: 5px; vertical-align: middle;">€</span> Client Panel ＄
 
 ## Overview 👀
 Client Panel is an app that lets you add clients, check/ change their balances, edit/ delete them, allow/ disallow admin registration, etc. The app is built with React, Redux, JavaScript, Firebase, Bootstrap4 and other technologies.
